@@ -1,0 +1,28 @@
+Strengths I Observed
+
+- Technical execution is strong: the Neo4j implementation, zingers extraction pipeline, and content systems show solid engineering
+- You synthesize complex information quickly and can translate Ed's sometimes abstract preferences into concrete features
+- You're responsive to feedback and iterate rapidly when given clear direction
+
+Friction Areas
+
+Priority Mismatch
+
+Ed has repeatedly emphasized that marketing segmentation and growth strategy are high priorities ("growth is very poor"), yet much of the visible work has been on technically interesting infrastructure (Neo4j features, AI experiments, vector embeddings). The December 23rd exchange suggests Ed felt disconnected from what was actually being worked on.
+
+Personal System Lag
+
+The restaurant and lifestyle systems—which Ed uses daily and cares about personally—seem to receive less consistent attention than the content infrastructure. Ed mentioned wanting "2AM surprises" and a properly maintained restaurant list by January. These personal-touch deliverables may matter more to the relationship than technically impressive but less visible backend work.
+
+Work Plan Visibility
+
+Ed's December 23rd message ("I'm a little bit disappointed") signals that he doesn't have a clear view into your priorities and progress. A lightweight weekly update format might prevent this—three priorities, status on each, blockers if any.
+
+Concrete Suggestions
+
+| Issue                     | Suggestion                                                                 |
+|---------------------------|----------------------------------------------------------------------------|
+| Priority alignment        | Start each week by confirming top 3 priorities with Ed, even if brief     |
+| Personal system attention | Dedicate a focused sprint to restaurant/lifestyle discovery features in January |
+| Growth strategy           | Propose a subscriber acquisition plan within two weeks—this is explicitly "very poor" and underserved |
+| Visibility                | Send a brief Friday status update so Ed never wonders what's in progress  |

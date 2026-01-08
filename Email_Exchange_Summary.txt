@@ -1,0 +1,127 @@
+Email Exchange Summary: Ed Conard's Instructions & Focus Areas
+October 2025 – January 2026
+
+---
+
+CONTENT & MACRO ROUNDUP
+
+In early October 2025, Ed expressed concern about content skew. "I often think we skew too much to finance and not enough to hardcore social policy and policy math... and that we are focused on too narrow a set of (financial) bloggers." He wanted more authors, greater diversity, and a systematic approach: try 1-2 new contributors per week and scour every think tank's daily newsletters. He also asked whether AI could write something like Jim Friedman's WSJ Best of the Web column.
+
+By October 12, Ed voiced frustration with analytics. "We have performance data, but we aren't learning anything from it. How do we learn something?" He mentioned longing for the day when users could be segmented by engagement level, with performance numbers shown by segment. Notably, he acknowledged enjoying analytics deep-dives even when they might not be optimal time use.
+
+The late October exchanges (Oct 30 – Nov 2) established foundation for the Neo4j project. "I'm still scratching my head about how AI is going to find insightful tags that comprise worthy special editions such as 'we are at the start of a debt crisis,' or 'electricity is a bottleneck to AI usage,' without us supplying them." This highlighted Ed's skepticism about AI's ability to identify meaningful themes without human guidance.
+
+---
+
+THE HARD PROBLEM: TAGGING & CURATION
+
+The November 16-17 exchanges revealed Ed's thinking on curation complexity. "I don't see how AI can select articles without an (our/Steve's) understanding of that (micro) topic. That would presumably come from looking at the history of articles related to that micro topic."
+
+More pointedly: "Prompt engineering within a topic may be as complicated as identifying and writing down the very complex set of interconnected if-then rules we use to sort the signal from the noise." This captures Ed's view that article selection requires deep contextual knowledge that may be difficult to systematize.
+
+By December 6, the tagging issues crystallized. "'Growth' is too broad of a tag or at least it is used too loosely. The first entry, for example, is not really about growth... It's a hodge podge of stuff—interesting but not coherent." But he also saw opportunity: "As you look down the list of entries, you can start to see subthemes/sub tags/special editions (e.g., AI crowding out other investments, comparison to Europe, problems plaguing Germany, productivity growth, past vs future)."
+
+---
+
+ZINGERS: THE CORE ASSET
+
+December 5 introduced the concept that became central to the system. "One of the many reasons the Roundup was created was to find quotes that change one's view of the world and can win an argument with a single well-placed sentence."
+
+Ed provided examples of what he values:
+- "The maximum Social Security benefit, which today approaches $100,000 per year for a high-income couple, is two to four times higher in dollar terms than is paid in these other countries."
+- "Onshore wind turbines in Germany produce around one-fifth of their total theoretical output. Solar panels in Germany and the U.K. use only around 10% of their total theoretical output."
+
+These are the zingers—specific facts that surprise and persuade.
+
+---
+
+AI & THE YEAR OF SLOP
+
+The November 24-25 exchanges addressed AI content quality. "I think it's mistaken to assume that anything created by AI is necessarily slop. What could make it not-slop is the curation of the books and the story that it tells."
+
+Ed's core problem statement emerged: "I'm always trying to solve the same problem—curating extremely high signal-to-noise for the things that interest me. I have a very limited amount of time. So, when I do something (read, for example) I want it optimized relative to all the other ways that I could spend my time."
+
+And his aspiration: "Ideally, AI would understand what I want—i.e., why I want it, which I don't fully understand—and then find it for me."
+
+---
+
+OPED GENERATION & VOICE CALIBRATION
+
+When reviewing AI-generated OpEd drafts (December 19), Ed gave mixed feedback: "Wow. Surprisingly good, especially for a first cut... But too aggressive, overstates the arguments (like the popular press), it would take substantial of my time to make this publishable under my name." He half-joked: "Perhaps we should create a pseudonym and blast the world!"
+
+By December 23, he clarified the deeper issue: "I think it needs a deeper understanding of my arguments—both modularity and zingers (single sentence arguments). It makes arguments and they are related to my arguments but I don't think they would persuade a skeptic/close the holes in their counter arguments."
+
+---
+
+ED'S CORE ARGUMENTS & RHETORICAL APPROACH
+
+The December 23 exchange captured Ed's intellectual framework. On taxes and risk-taking: "A key nuance in my argument about taxes is that they reduce the expected after-tax value of risk-taking before an investment or decision to take-risk is made and that the lower after-tax expected value, and not the taxes per se, reduces risk-taking."
+
+On counterfactuals: "All that matters is relative to a counterfactual that no one sees or considers (except me). I try to show Europe as a glimpse of the counterfactual where lower expected returns equal near-zero-risk-taking."
+
+Critical distinction on ex ante vs. ex post: "Optimal tax policy isn't designed to motivate post-hoc billionaires like Musk. The goal is to motivate talented young people ex-ante to take the risk to buy one-in-a-million lottery tickets—to motivate a large pool of failure from which a small amount of success arises."
+
+On his rhetorical style: "My rhetorical style is driven by the substance of my arguments and the typical counter arguments—arguments I think are lame, but others, who haven't given it much thought, nevertheless find persuasive, and therefore must be defeated."
+
+And: "To view my arguments through the lens of my rhetorical style is to wag the dog by the tail. My style is driven by the (quality/strength) of my arguments... and the need to defeat common misperceptions."
+
+Ed's mantras appeared throughout: "The purpose of thinking is to stop thinking." And: "The world is smeared in a thick coating of propaganda because when people find an argument that they mistakenly think justifies their desired conclusion, they stop thinking."
+
+---
+
+MARKETING SEGMENTATION
+
+The November 26-29 exchanges established the segmentation framework as very high priority. Ed emphasized that "We are also going to need to differentiate people by not only their importance but also the difficulty of reaching (Paul Gigot will be much harder to reach than Larry Summers)."
+
+On growth vs. retention: Ed characterized retention as "halfway reasonable" but growth as "very poor—we are not adding new subscribers." This remains an unsolved problem requiring ideas.
+
+On Special Editions reaching wider audiences (November 27): "I can't help but wonder whether the distribution of our special editions shouldn't be much wider. The whole world should see this edition."
+
+---
+
+PERSONAL SYSTEM: RESTAURANTS
+
+December 4 established the restaurant system philosophy. "Rather than summing up all the different ways to differentiate (e.g., score) something, it's overwhelmingly more valuable and insightful to leave the relevant criteria segmented."
+
+The non-substitution principle: "A 3-star is not a substitute for a delicious grilled ham and cheese sandwich from EAT a block from my house on Saturday for lunch."
+
+On source trust: "Who says a restaurant is good matters. Most recommendations are for sale. You show up and the place sucks."
+
+On cancellations (November 13): Ed's position is that the optimal system should NOT involve canceling a lot of reservations—though this was debated.
+
+---
+
+2AM PRINCIPAL & LIFESTYLE EXPANSION
+
+December 14-17 introduced new personal system requests. From a book by John Levy: "A great night out on the town with friends should include the preplanned illusion of a spontaneous event that is surprising, exhilarating, dangerous, and satisfying." Ed noted the book develops criteria but never provides actual NYC ideas, and Google AI suggestions were "lame."
+
+Ed's expanded requests included: lifestyle websites for "rich old male New Yorkers," weekly book summaries (800-1000 words, esoteric nonfiction), "Rules for Living" (daily/weekly brilliant rules for business/personal life), and a Sunday Edition combining lifestyle content.
+
+---
+
+WORK PLAN ALIGNMENT & TIME
+
+December 23 carried Ed's clearest organizational feedback: "I'm concerned about whether we are executing on a mutually agreed upon work plan and arrival destination(s)." He noted missing January recommendations and 2AM surprise deliverables.
+
+The January 1, 2026 exchange captured Ed's deepest time concern: "Every moment I spend acquiring input is a moment I don't spend producing output (or consuming the precious waning moments of my life). It seems impossible to strike a productive balance without reducing the amount of input."
+
+And: "I think we need to work backwards from desired output to highly constrained input. I feel enslaved to input and daily tasks that I shouldn't be the one to do."
+
+---
+
+COMMUNICATION PREFERENCES
+
+On summary length and style (December 31 – January 2): "Edit out a large share of the unnecessary redundancy" (the Shannon principle). Ed prefers ~750 character summaries, focused on "the key insight that you think I could use or incorporate into my work."
+
+On numbers: "I often say X and not about X because I try to first round numbers (to significant digits). 23.6% of GDP becomes 24%. My view is that people can't remember fractions and that fractions over-represent the true accuracy of numbers."
+
+---
+
+KEY PRIORITIES DISTILLED
+
+1. Growth strategy for subscriber acquisition (currently "very poor")
+2. AI voice calibration — less aggressive, deeper argument understanding
+3. Zingers system — quotes that win arguments with a single sentence
+4. Personal system deliverables — 2AM surprises, January recommendations
+5. Work plan visibility — clear deliverables and destinations
+6. Input reduction — work backwards from output to constrained input
